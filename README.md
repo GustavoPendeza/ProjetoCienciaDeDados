@@ -19,6 +19,10 @@ O modelo com os melhores resultados e que foi escolhido ao final foi o Extra Tre
 
 ## Como testar
 
+Baixe e extraia os arquivos na pasta do projeto: https://drive.google.com/drive/folders/1aqFpNvZ1hukEEeudLXsKAazWGwGWo5VV?usp=sharing
+
+Os arquivos do link incluem: bases dos dados utilizados no projeto e "modelo.joblib"(que é o arquivo com tudo já feito e testado sobre os modelos de previsão. Ele é utilizado pelo "DeployProjetoAribnb.py" para fazer a previsão de preço). Esses arquivos estão no Drive pois são grandes demais e o GitHub não aceita arquivos acima de 50mb.
+
 Instale todas as dependências do "DeployProjetoAirbnb.py" e rode ele pelo prompt(de preferência o prompt do Anaconda3) usando o comando:
 - streamlit run DeployProjetoAirbnb.py
 
